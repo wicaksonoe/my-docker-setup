@@ -1,0 +1,4 @@
+*
+!default-laravel.conf
+!default-native.conf
+!.gitignore
