@@ -14,9 +14,19 @@ $ docker-compose up -d
 ```
 to shutdown
 $ docker-compose stop
+or
+$ ./stop
 ```
 
 ```
 to start
 $ docker-compose start
+or
+$ ./start
+```
+
+```
+to use php cli or mysql cli
+$ ./php
+$ ./mysql
 ```
