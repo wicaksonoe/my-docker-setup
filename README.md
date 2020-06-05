@@ -1,9 +1,9 @@
 # my-docker-setup
 docker setup for local development
 
-This is my setup for laravel project local development
-Simply copy .env.example to .env
-then configure the exposed PORT of each container, PROJECT_PREFIX, and image version
+This is my setup for laravel project local development  
+Simply copy .env.example to .env  
+then configure the exposed PORT of each container, PROJECT_PREFIX, and image version  
 
 ```
 to run for first time
